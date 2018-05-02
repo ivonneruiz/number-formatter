@@ -1,0 +1,32 @@
+{
+  "name": "numberformatter",
+  "version": "0.1.0",
+  "description": "package example",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivonneruiz/number-formatter.git"
+  },
+  "engines": {
+    "node": ">=8.9.4"
+  },
+  "keywords": [
+    "example",
+    "packkage",
+    "node",
+    "npm"
+  ],
+  "author": "Ivonne Ruiz <ivonne.icc@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivonneruiz/number-formatter/issues"
+  },
+  "homepage": "https://github.com/ivonneruiz/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
+}
